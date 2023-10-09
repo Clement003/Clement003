@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clement003
-- 👀 I’m interested in front end development 
-- 🌱 I’m currently learning css/js
-- 💞️ I’m looking to collaborate on Web/front end design 
+- 👀 I’m interested in Data analytics and Data science
+- 🌱 I’m currently learning SQL and Python programming language
+- 💞️ I’m looking to collaborate on building Dashboards for Data visualisation and Business Insight Development
 - 📫 How to reach me == Clmntbsl@gmail.com 
 
 <!---
